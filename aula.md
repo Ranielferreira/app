@@ -43,6 +43,7 @@ Operadores de comparação
 ### Arrays:
 
 Uma lista que contém qualquer tipo de dado
+Métodos de array: push, find, forEach
 
 ### Objetos:
 
